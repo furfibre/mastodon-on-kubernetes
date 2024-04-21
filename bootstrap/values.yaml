@@ -1,6 +1,6 @@
 # Global Parameters (REQUIRED)
 # Add your domain (REQUIRED)
-domain: "" 
+domain: "social.drac.gg" 
 # Application specific
 traefik:
   enable: true
